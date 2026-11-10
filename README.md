@@ -84,7 +84,7 @@ credit-scoring-machine-learning/
 
    ```bash
    git clone https://github.com/Umair104DB/Credit-Scoring-Model
-   cd credit-scoring-machine-learning
+   cd Credit-Scoring-Model
    ```
 
 2. (Recommended) Create a virtual environment:
