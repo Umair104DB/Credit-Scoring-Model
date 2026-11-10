@@ -83,7 +83,7 @@ credit-scoring-machine-learning/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Umair104DB/Credit-Scoring-Model.git
+   git clone https://github.com/Umair104DB/Credit-Scoring-Model
    cd credit-scoring-machine-learning
    ```
 
